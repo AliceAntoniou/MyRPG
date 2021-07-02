@@ -1,0 +1,7 @@
+*.a
+*.o
+*.json
+.vscode
+*.gc*
+my_rpg
+vgcore.*
